@@ -1,0 +1,18 @@
+.user-profile-photo {
+    width: 100px;
+    height: 100px;
+}
+
+.app {
+    margin: 10px;
+}
+body {
+    font-family: sans-serif;
+}
+.left{
+    height: 97vh;
+}
+.right {
+    border-left: 2px dotted gray;
+    height: 97vh;
+}
